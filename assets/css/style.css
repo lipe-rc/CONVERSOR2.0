@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body{
     font-family: 'Montserrat', arial, helvetica, sans-serif;
     text-transform: uppercase;
 }
-
 
 h1{
     font-size: 25px;
@@ -68,6 +70,7 @@ button{
     color: #fff;
     border: 0;
     font-weight: 600;
+    text-transform: uppercase;
 }
 
 label{
